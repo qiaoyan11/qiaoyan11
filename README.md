@@ -4,7 +4,7 @@
 - 🎓 B.A. in Data Science and Mathematics, New York University · 2026
 - 📍 New York City
 
-I build AI agents and work on machine learning problems involving graphs, images, and financial data.
+I build AI applications and am interested in applying AI to real-world industrial problems.
 
 Open to Work🚀
 Contact:jz4227@columbia.edu
