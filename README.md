@@ -6,6 +6,9 @@
 
 I build AI agents and work on machine learning problems involving graphs, images, and financial data.
 
+Open to Work🚀
+Contact:jz4227@columbia.edu
+
 #### Projects & competitions
 
 | Project | What I worked on | Tools & methods |
